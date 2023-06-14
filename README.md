@@ -6,5 +6,5 @@
 
 
 ```diff
-Please feel free to contact me if you are interested in my research :)
+Please feel free to contact me via email (liushunyu@zju.edu.cn) if you are interested in my research :)
 ```
