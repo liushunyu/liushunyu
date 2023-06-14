@@ -5,6 +5,4 @@
 - 😄 My current research interests include **reinforcement learning**, **multi-agent learning**, and **power system control**. 
 
 
-```diff
-Please feel free to contact me via email (liushunyu@zju.edu.cn) if you are interested in my research :)
-```
+***Please feel free to contact me via email (liushunyu@zju.edu.cn) if you are interested in my research :)***
