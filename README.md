@@ -5,4 +5,4 @@
 - 😄 My current research interests include **reinforcement learning**, **multi-agent learning**, and **power system dispatch and control**. 
 
 
-- 💬 Please feel free to contact me if you are interested in my research :)
+> Please feel free to contact me if you are interested in my research :)
