@@ -9,6 +9,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liushunyu&show_icons=true&theme=tokyonight" width="56%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushunyu&theme=dark&layout=compact" width="43%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liushunyu&theme=dark&layout=compact&langs_count=5" width="43%">
 </div>
 
