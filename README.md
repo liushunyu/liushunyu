@@ -6,7 +6,7 @@
 
 ***Please feel free to contact me via email (liushunyu@zju.edu.cn) if you are interested in my research :)***
 
-[[Personal Page]](https://liushunyu.github.io/) | [[Google Scholar]](https://scholar.google.com/citations?user=4U-X6d4AAAAJ&hl=en) | [[Semantic Scholar]](https://www.semanticscholar.org/author/Shunyu-Liu/2128786021) | [[DBLP]](https://dblp.uni-trier.de/pid/235/0752-1.html)
+[[Personal Page]](https://liushunyu.github.io/) | [[Google Scholar]](https://scholar.google.com/citations?user=4U-X6d4AAAAJ&hl=en) | [[Semantic Scholar]](https://www.semanticscholar.org/author/Shunyu-Liu/2128786021) | [[ResearchGate]](https://www.researchgate.net/profile/Shunyu-Liu-3) | [[DBLP]](https://dblp.uni-trier.de/pid/235/0752-1.html)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liushunyu&show_icons=true&theme=prussian&rank_icon=github" width="56%">
